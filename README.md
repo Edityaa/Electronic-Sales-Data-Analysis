@@ -6,7 +6,6 @@ This document presents an analysis of electronic sales data aimed at extracting 
 
 
 
-
 ## Brief Summary
 
 [This Analysis is An Extension the this Video and Repository](https://www.youtube.com/watch?v=eMOA1pPVUc4)
@@ -15,7 +14,7 @@ This Analysis/repo goes is based on my first data Exploration Project about Elec
 
 In this Analysis we use Python Pandas & Python Matplotlib,Seaborn, Geojson and Plotly to analyze and answer business questions about 12 months  of sales data. The data contains  electronics store purchases broken of each Month.
 
-We start by cleaning our data. Tasks during this section include:
+Tasks during this Project include:
 
     Cleaning the Data
     Analysis per month Sales Data of each city.
@@ -51,7 +50,7 @@ For support, email itsaditya2005@gmail.com or join our Slack channel.
 ### For more Questions and Analysis refer to thr jupyter notebook
 
 ## Some Common Graphs which I Analysed
-- More more refer to `/Graphs/'
+- More more refer to /Graphs/
 
 
 ![Most Sold](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/b8ab56eb-03b1-49f7-a6a6-5971f676c4e0)
