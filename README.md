@@ -4,7 +4,7 @@ This document presents an analysis of electronic sales data aimed at extracting 
 
 ## Authors
 
-- [@Edityaa](https://github.com/Edityaa/Edityaa)
+- [@Edityaa](https://github.com/Edityaa?tab=repositories)
 
 ## License
 
