@@ -14,7 +14,7 @@ This document presents an analysis of electronic sales data aimed at extracting 
 
 ## Brief Summary
 
-[This Analysis is An Extension the this Video and Repository](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+[This Analysis is An Extension of this Video and Repository](https://www.youtube.com/watch?v=eMOA1pPVUc4)
 
 This Analysis/repo goes is based on my first data Exploration Project about Electronic Sales Analysis. Here goes some information about my Analysis.
 
