@@ -50,8 +50,12 @@ For support, email itsaditya2005@gmail.com or join our Slack channel.
 
 ### For more Questions and Analysis refer to thr jupyter notebook
 
-## Graphs
+## Some Common Graphs which I Analysed
+- More more refer to `/Graphs/'
 ![Most Sold](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/b8ab56eb-03b1-49f7-a6a6-5971f676c4e0)
+![Sales vs City](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/f7a37baa-999d-4a05-b7dc-2a59a81d1ab2)
+![Sales vs Hours](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/73dadf9a-a0cd-4655-84b8-d608a0cdfc84)
+![Sales vs Month](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/9f73c936-1675-452a-b68e-98149655fdd4)
 
 
 
@@ -64,10 +68,5 @@ I'm a Aditya Kumar a Data Science and Ml Enthusiast And learner...
 
 ## 🛠 Skills
 Python , C++ , C , Pandas , Seaborn ,Matplotlib , Numpy...
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
