@@ -56,7 +56,7 @@ For support, email itsaditya2005@gmail.com .
 ### For more Questions and Analysis refer to thr jupyter notebook
 
 ## Some Common Graphs which I Analysed
-- More more refer to /Graphs/
+- For more refer to /Graphs/
 
 
 ![Most Sold](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/b8ab56eb-03b1-49f7-a6a6-5971f676c4e0)
