@@ -63,6 +63,8 @@ For support, email itsaditya2005@gmail.com or join our Slack channel.
 ![Sales vs City](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/f7a37baa-999d-4a05-b7dc-2a59a81d1ab2)
 ![Sales vs Hours](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/73dadf9a-a0cd-4655-84b8-d608a0cdfc84)
 ![Sales vs Month](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/9f73c936-1675-452a-b68e-98149655fdd4)
+![Screenshot 2024-04-11 123645](https://github.com/Edityaa/Electronic-Sales-Data-Analysis/assets/152017045/4caccc84-6468-4ff8-afd8-390f0228f056)
+
 
 
 
