@@ -33,7 +33,7 @@ Once we have analyzed teh data, we move onto answering the business questions.
 
 ## Support / Query
 
-For support, email itsaditya2005@gmail.com or join our Slack channel.
+For support, email itsaditya2005@gmail.com .
 
 
 
